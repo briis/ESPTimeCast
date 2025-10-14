@@ -56,7 +56,7 @@ substitutions:
 
   weekDaysShort: "Søn,Man,Tir,Ons,Tor,Fre,Lør"    # Danish
   # weekDaysShort: "Sun,Mon,Tue,Wed,Thu,Fri,Sat"  # English
-  # weekDaysShort: "Son,Mon,Din,Mid,Don,Fre,Sam"  # German
+  # weekDaysShort: "So,Mo,Di,Mi,Do,Fr,Sa"  # German
   # weekDaysShort: "Dim,Lun,Mar,Mer,Jeu,Ven,Sam"  # French
   # weekDaysShort: "Dom,Lun,Mar,Mer,Gio,Ven,Sab"  # Italien
   ############ END OF SETTINGS ############## 
